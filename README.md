@@ -1,1 +1,1 @@
-# broccoli-admin
+# broccoli-admin a go project
